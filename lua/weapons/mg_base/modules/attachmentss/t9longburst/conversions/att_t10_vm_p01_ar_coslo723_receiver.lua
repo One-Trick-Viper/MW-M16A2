@@ -3,7 +3,8 @@ ATTACHMENT.Name = "att_t10_vm_p01_ar_coslo723_receiver"
 ATTACHMENT.Model = Model("models/viper/gw/attachments/coslo723/att_t10_vm_p01_ar_coslo723_receiver.mdl")
 ATTACHMENT.Icon = Material("")
 ATTACHMENT.Bodygroups = {
-    ["receiver"] = 1
+    ["receiver"] = 1,
+    ["tag_sling_loop"] = 1,
 }
 
 ATTACHMENT.Conversion = {
