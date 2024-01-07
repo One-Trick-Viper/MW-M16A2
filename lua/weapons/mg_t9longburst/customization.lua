@@ -56,8 +56,8 @@ SWEP.Customization = {
     "att_vm_4x_west01_tall", "att_vm_4x_west02_tall",
     "att_vm_scope_mike14", "att_vm_scope_vz"},
 
-    {"att_laser", "attachment_vm_ar_fasthandling_laser01_cylinder", "attachment_vm_ar_fasthandling_laser02_cylinder", 
-    "attachment_vm_ar_fasthandling_laser03_cylinder"},
+    {"att_laser", "attachment_vm_ar_t9longburst_laser01_cylinder", "attachment_vm_ar_t9longburst_laser02_cylinder", 
+    "attachment_vm_ar_t9longburst_laser03_cylinder"},
 
     -- {"att_grip", "attachment_vm_ar_fasthandling_stubbygrip01", 
     -- "attachment_vm_ar_fasthandling_stubbygrip02", "attachment_vm_ar_fasthandling_vertgrip01",
