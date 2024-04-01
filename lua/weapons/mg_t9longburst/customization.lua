@@ -21,25 +21,15 @@ end
 SWEP.Customization = {
     {"att_perk", "att_perk_fmj", "att_perk_ricochet", "att_perk_headshot", "att_perk_fastswap"}, 
 
-    {"att_conversion", "att_t10_vm_p01_ar_coslo723_receiver"},
-
     {"attachment_vm_ar_t9longburst_stock",
-    "attachment_vm_ar_t9longburst_mixstock_02", "attachment_vm_ar_t9longburst_mixstock_01", 
-    "att_t10_vm_p01_ar_coslo723_stock", "att_t10_vm_p01_ar_coslo723_stock_mix", "att_t10_vm_p01_ar_coslo723_stock_light",
-    "att_t10_vm_p01_ar_coslo723_stock_flinch", "att_t10_vm_p01_ar_coslo723_stock_adsmove"},
+    "attachment_vm_ar_t9longburst_mixstock_02", "attachment_vm_ar_t9longburst_mixstock_01"},
 
     {"attachment_vm_ar_t9longburst_mag", "attachment_vm_ar_t9longburst_mixclip_01",
     "attachment_vm_ar_t9longburst_fastreload_01", 
-    "attachment_vm_ar_t9longburst_extclip_01", "attachment_vm_ar_t9longburst_extclip_02",
-    "att_t10_vm_p01_ar_coslo723_mag", "att_t10_vm_p01_ar_coslo723_mag_fastreload1",
-    "att_t10_vm_p01_ar_coslo723_mag_fastreload2", "att_t10_vm_p01_ar_coslo723_mag_fast20rd",
-    "att_t10_vm_p01_ar_coslo723_mag_ext", "att_t10_vm_p01_ar_coslo723_mag_boxmag"},
+    "attachment_vm_ar_t9longburst_extclip_01", "attachment_vm_ar_t9longburst_extclip_02"},
 
     {"attachment_vm_ar_t9longburst_barrel",
-    "attachment_vm_ar_t9longburst_barrel_heavy", "attachment_vm_ar_t9longburst_barrel_02",
-    "att_t10_vm_p01_ar_coslo723_barrel", "att_t10_vm_p01_ar_coslo723_barrel_velocity",
-    "att_t10_vm_p01_ar_coslo723_barrel_short_hical1", "att_t10_vm_p01_ar_coslo723_barrel_short_hical2", "att_t10_vm_p01_ar_coslo723_barrel_range",
-    "att_t10_vm_p01_ar_coslo723_barrel_mixbar"},
+    "attachment_vm_ar_t9longburst_barrel_heavy", "attachment_vm_ar_t9longburst_barrel_02"},
 
     {"att_muzzle", "att_vm_breacher01", "att_vm_breacher02", "att_vm_compensator01", 
     "att_vm_compensator02", "att_vm_flashhider01", "att_vm_flashhider02", 
